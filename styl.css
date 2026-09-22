@@ -1,0 +1,38 @@
+#glowna {
+    display: flex;
+    justify-content: space-evenly
+}
+* {
+    font-family: sans-serif;
+}
+header {
+    
+    text-align: center;
+    background-color: paleturquoise;
+    border-radius: 20px;
+    height: 100px;
+    padding: 2%;
+    
+}
+main { 
+    text-align: center;
+}
+aside {
+    background-color: paleturquoise;
+    border-radius: 20px;
+    width: 25%;
+    height: 700px;
+    line-height: 2;
+}
+footer {
+    margin-top: 10px;
+}
+#sekcja {
+    border: dashed 1px dimgray;
+    margin: 10px 50px 10px 50px;
+    overflow: auto;
+    height: 400px;
+}
+#lewa {
+    width: 70%
+}
