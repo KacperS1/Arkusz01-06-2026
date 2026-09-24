@@ -36,3 +36,13 @@ footer {
 #lewa {
     width: 70%
 }
+.miniatury {
+    height: 200px;
+    padding: 10px;
+    opacity:  0.8;
+    transition-duration: 1;
+
+}
+.miniatury:hover {
+    opacity: 1;
+}
